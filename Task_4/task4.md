@@ -1,7 +1,7 @@
 # Task 4: Data Visualization
 
 ## Files
-* [Data_Visualization.ipynb](data%20visulaisation/Data_Visualization.ipynb) - Core visualization notebook
+* [Data_Visualization.ipynb](data%20visulaisation/Data_Visualization.ipynb) -  notebook
 
 ### Datasets
 * [2015.csv](data%20visulaisation/data/2015.csv) | [2016.csv](data%20visulaisation/data/2016.csv) | [2017.csv](data%20visulaisation/data/2017.csv) | [2018.csv](data%20visulaisation/data/2018.csv) | [2019.csv](data%20visulaisation/data/2019.csv)
