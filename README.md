@@ -14,3 +14,4 @@
 * \[x] [Task 9](./Task_9/task9.md)
 * \[x] [Task 10](./Task_10/task10.md)
 * \[x] [Task 11](./Task_11/task11.md)
+* \[x] [Task 12](./Task_12/task12.md)
